@@ -97,7 +97,7 @@ Installation
 
 Clone the repository
 
-bash   git clone https://github.com/your-username/smart-cart.git
+bash   git  https://github.com/your-username/smart-cart.git
    cd smart-cart
 
 Install backend dependencies
